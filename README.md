@@ -6,7 +6,7 @@ enclosure, and a React Native app that changes wallpapers over BLE.
 ## Status
 | Area | State |
 |---|---|
-| Breadboard prototype | Not started |
+| Breadboard prototype | Ongoing |
 | Schematic and PCB | Not started |
 | Enclosure | Not started |
 | App | Not started |
